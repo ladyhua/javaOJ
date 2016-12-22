@@ -6,6 +6,7 @@ import java.util.List;
 public class Main119 {
 	public static void main(String args[]) {
 		System.out.println(getRow(31));
+		
 	}
 	public static List<Integer> getRow(int rowIndex) {
 		List<Integer> res = new ArrayList<Integer>();
